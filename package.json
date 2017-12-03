@@ -14,7 +14,7 @@
     "complete",
     "tutorial"
   ],
-  "author": "Maximilian Schwarzmüller",
+  "author": "Diego Trejos. Tutorial for: Maximilian Schwarzmüller",
   "license": "ISC",
   "devDependencies": {
     "http-server": "^0.10.0"
